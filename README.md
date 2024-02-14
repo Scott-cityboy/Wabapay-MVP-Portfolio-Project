@@ -10,12 +10,12 @@ Technologies Used
 Frontend:
 
 HTML, CSS, JavaScript
-Frontend Framework (e.g., React, Vue.js)
+Frontend Framework-React, Vue.js
 Backend:
 
 Node.js
 Express.js
-MongoDB or SQL Database (Choose as per your preference)
+MongoDB or SQL Database
 
 Usage
 Upon accessing the application, recruiters and hiring managers can view a list of projects.
